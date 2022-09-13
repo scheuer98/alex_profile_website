@@ -13,7 +13,7 @@ markup:
     renderer:
       unsafe: yes
 params:
-  author: somrat
+  author: Alexander Scheuer
   description: This is meta description
   favicon: images/favicon.png
   logo_dark: images/logo-dark.png
@@ -43,15 +43,15 @@ params:
     preloader: images/preloader.gif
   social:
     - icon: fab fa-facebook-f
-      link: https://www.facebook.com/somratpro
-    - icon: fab fa-twitter
-      link: https://twitter.com/somratpro
+      link: https://www.facebook.com/alex.scheuer.79
+    #- icon: fab fa-twitter
+    #  link: https://twitter.com/somratpro
     - icon: fab fa-instagram
-      link: https://www.instagram.com/somratpro
+      link: https://www.instagram.com/alexpscheuer/?hl=en
     - icon: fab fa-github
-      link: https://github.com/somratpro
+      link: https://github.com/scheuer98
     - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/somratpro
+      link: https://www.linkedin.com/in/alexander-scheuer/
 Languages:
   en:
     contentDir: content/english
@@ -68,14 +68,14 @@ Languages:
           pre: '#'
           url: about
           weight: 2
-        - name: Service
+        - name: Services
           pre: '#'
           url: service
           weight: 3
-        - name: Portfolio
-          pre: '#'
-          url: portfolio
-          weight: 4
+        #- name: R Portfolio
+        #  pre: '#'
+        #  url: portfolio
+        #  weight: 4
         - name: Testimonial
           pre: '#'
           url: testimonial
@@ -88,35 +88,35 @@ Languages:
           url: blog
           weight: 7
     weight: 1
-  fr:
-    contentDir: content/french
-    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
-    home: Accueil
-    languageCode: fr-fr
-    languageName: Fr
-    menu:
-      main:
-        - name: Home
-          url: /
-          weight: 1
-        - name: About me
-          pre: '#'
-          url: about
-          weight: 2
-        - name: Service
-          pre: '#'
-          url: service
-          weight: 3
-        - name: Portfolio
-          pre: '#'
-          url: portfolio
-          weight: 4
-        - name: Testimonial
-          pre: '#'
-          url: testimonial
-          weight: 5
-        - name: Contact
-          pre: '#'
-          url: contact
-          weight: 6
-    weight: 2
+  #fr:
+  #  contentDir: content/french
+  #  copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+  #  home: Accueil
+  #  languageCode: fr-fr
+  #  languageName: Fr
+  #  menu:
+  #    main:
+  #      - name: Home
+  #        url: /
+  #        weight: 1
+  #      - name: About me
+  #        pre: '#'
+  #        url: about
+  #        weight: 2
+  #      - name: Service
+  #        pre: '#'
+  #        url: service
+  #        weight: 3
+  #      - name: Portfolio
+  #        pre: '#'
+  #        url: portfolio
+  #        weight: 4
+  #      - name: Testimonial
+  #        pre: '#'
+  #        url: testimonial
+  #        weight: 5
+  #      - name: Contact
+  #        pre: '#'
+  #        url: contact
+  #        weight: 6
+  #  weight: 2

@@ -2,43 +2,41 @@
 button:
   enable: true
   label: DOWNLOAD MY CV
-  link: '#'
+  link: AlexanderScheuer - Curriculum Vitae 2022 - ICC.pdf
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
 experience:
   enable: true
   experience_list:
-  - company: Fiverr.com
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
+  - company: Ernst & Young
+    content: Expert Class graduate with hands-on experience with R, Python, MS Tech Stack such as the Power Platform, Azure, Machine Learning & AI and PMO with Scrum. 
       like Personal, Business, Blog, E-comerches etc.
-    duration: 2016-2018
-    name: Web Developer
-  - company: Fiverr.com
-    content: Graphic design is art with a purpose. I love illustration, so logo desing
-      is my favorite work. But i can do many things with graphics.
-    duration: 2015-2018
-    name: Graphic Designer
-  - company: Polytechnic
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
-    duration: 2014-2018
-    name: Database Manager
+    duration: Oct 2021 - Aug 2022
+    name: Data & Analytics Consultant
+  - company: Ernst & Young
+    content: Conducted an economic feasibility including analysis of strategic measures and business model development for the German defense ministry as well as planned German raw material supply requirements until 2035.
+    duration: Apr 2021 - Aug 2021
+    name: Strategy & Transactions Intern
+  - company: Ernst & Young
+    content: Successfully finalized a Robotic Process Automation project at an insurance company and. Created strategies for new BI infrastructures and RPA techstacks.
+    duration: Sep 2020 - Feb 2021
+    name: Data & Analytics Intern
   title: EXPERIENCE
-image: images/backgrounds/portrait.jpg
+image: images/backgrounds/alexportrait.jpeg
 skill:
   enable: true
   skill_list:
-  - name: Web Development
-    percentage: 98%
-  - name: Graphic Design
+  - name: Data Science
+    percentage: 80%
+  - name: Technology Transformations
     percentage: 85%
-  - name: Database Management
+  - name: Project Management
     percentage: 90%
-  - name: Wordpress
+  - name: Corporate Strategy
     percentage: 70%
-  title: SKILL
+  title: SKILLS
 title: KNOW MORE <br> ABOUT ME
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+I am passionate about leveraging Data & Analytics to support businesses to transform into Data-Driven Enterprises. With my acute quantitative background, I strive to optimize and automize processes, leverage big data for informed decision making, and advise businesses on all fronts such that they may embrace the technology-infused change challenging the present world.

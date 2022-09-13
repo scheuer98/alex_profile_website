@@ -1,5 +1,5 @@
 ---
-bg_image: images/backgrounds/full-nav-bg.jpg
+bg_image: images/backgrounds/LBS-group.jpeg
 button:
   enable: true
   label: HIRE ME
@@ -7,15 +7,15 @@ button:
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
-first_name: MacGyver
-last_name: SOMRAT
+first_name: Alex
+last_name: Scheuer
 occupations:
-- Web Developer
-- Graphic Designer
-- Database Manager
+- Consultant
+- Data Scientist
+#- Database Manager
 slider_images:
-- images/slider/slider-1.jpg
-- images/slider/slider-2.jpg
-- images/slider/slider-3.jpg
-title: I'm Somrat Sorkar
+- images/slider/lbs.jpg
+- images/slider/mieming.jpeg
+- images/slider/spices.jpg
+title: I'm Alex Scheuer
 ---
