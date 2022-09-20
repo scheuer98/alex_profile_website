@@ -15,10 +15,10 @@ markup:
 params:
   author: Alexander Scheuer
   description: This is meta description
-  favicon: images/favicon.png
-  logo_dark: images/logo-dark.png
-  logo_light: images/logo.png
-  logo_width: 150px
+  favicon: images/AScheuer-icon_white.png
+  logo_dark: images/AScheuer-logos_black.png
+  logo_light: images/AScheuer-logos_white.png
+  logo_width: 250px
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -55,7 +55,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+    copyright: Copyright &copy; 2022 London Business School x hugo theme by [somrat](https://somrat.netlify.com)
     home: Home
     languageCode: en-us
     languageName: En

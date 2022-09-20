@@ -16,6 +16,6 @@ occupations:
 slider_images:
 - images/slider/lbs.jpg
 - images/slider/mieming.jpeg
-- images/slider/spices.jpg
+- images/slider/Family_Photo.jpeg
 title: I'm Alex Scheuer
 ---
