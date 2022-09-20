@@ -1,24 +1,24 @@
 ---
 categories:
-- database
-date: "2020-05-12T12:14:34+06:00"
+- Volunteering
+date: "2016-08-25T12:14:34+06:00"
 description: This is meta description.
 draft: false
-image: images/portfolio/item4.jpg
+image: images/portfolio/alimaus.jpeg
 project_info:
-- content: John Doe
-  icon: fas fa-user
-  name: Client
-- content: https://examplesite.com/
+#- content: John Doe
+#  icon: fas fa-user
+#  name: Client
+- content: https://www.alimaus.de/docs/153014/home.aspx
   icon: fas fa-link
-  name: Project Link
-- content: Add whatever you want
-  icon: fas fa-globe
-  name: New Item
-- content: This is in a loop
-  icon: fas fa-redo
-  name: Loop Item
-title: Project Title
+  name: Program Link
+#- content: Add whatever you want
+#  icon: fas fa-globe
+#  name: New Item
+#- content: This is in a loop
+#  icon: fas fa-redo
+#  name: Loop Item
+title: Alimaus
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
@@ -28,7 +28,7 @@ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in c
 mollit anim id est laborum.
 
 
-#### Project Details
+#### Alimaus Details
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
@@ -40,10 +40,10 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
 
-#### Project Requirements
+#### Project Details
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+mollit anim id est laborum.#

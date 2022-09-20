@@ -1,25 +1,24 @@
 ---
 categories:
-- design
-- development
-date: "2020-05-12T12:14:34+06:00"
+- Master
+date: "2022-08-12T12:14:34+06:00"
 description: This is meta description.
 draft: false
-image: images/portfolio/item1.jpg
+image: images/portfolio/lbs.jpeg
 project_info:
-- content: John Doe
-  icon: fas fa-user
-  name: Client
-- content: https://examplesite.com/
+#- content: John Doe
+#  icon: fas fa-user
+#  name: Client
+- content: https://www.london.edu/masters-degrees/masters-in-analytics-and-management
   icon: fas fa-link
-  name: Project Link
-- content: Add whatever you want
-  icon: fas fa-globe
-  name: New Item
-- content: This is in a loop
-  icon: fas fa-redo
-  name: Loop Item
-title: Project Title
+  name: Program Link
+#- content: Add whatever you want
+#  icon: fas fa-globe
+#  name: New Item
+#- content: This is in a loop
+#  icon: fas fa-redo
+#  name: Loop Item
+title: MAM
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
@@ -29,7 +28,7 @@ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in c
 mollit anim id est laborum.
 
 
-#### Project Details
+#### Program Details
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
@@ -41,7 +40,7 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
 
-#### Project Requirements
+#### Program Requirements
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
