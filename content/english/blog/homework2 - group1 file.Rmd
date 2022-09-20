@@ -1,5 +1,10 @@
 ---
-title: "Session 4: Homework 2"
+description: Climate change and temperature anomalies  # the title that will show up once someone gets to this page
+draft: false
+image: images/slider/climatechange.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+keywords: ""
+slug: homework1 # slug is the shorthand URL address... no spaces plz
+title: "Climate change and temperature anomalies"
 author: "Group 1: Alex Scheuer, Dhruvi Mundra, Heng Jian Shun, Marta Wnek, Sharon Wenyu Xu, Xueying Liu"
 date: "`r Sys.Date()`"
 output:
@@ -373,7 +378,7 @@ use `enddate`, i.e., the date the poll ended. Your plot should look
 something like this:
 
 ```{r trump_margins, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "biden_approval_margin.png"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "biden_approval_margin.png"), error = FALSE)
 ```
 
 ```{r poll_summary}
@@ -454,14 +459,14 @@ We can easily create a facet grid that plots bikes hired by month and
 year since 2015
 
 ```{r tfl_month_year_grid, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "tfl_distributions_monthly.png"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "tfl_distributions_monthly.png"), error = FALSE)
 ```
 
 However, the challenge I want you to work on is to reproduce the
 following two graphs.
 
 ```{r tfl_absolute_monthly_change, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "tfl_monthly.png"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "tfl_monthly.png"), error = FALSE)
 ```
 
 The second one looks at percentage changes from the expected level of
@@ -469,7 +474,7 @@ weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks
 14-26) and Q4 (weeks 40-52).
 
 ```{r tfl_percent_change, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "tfl_weekly.png"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "tfl_weekly.png"), error = FALSE)
 ```
 
 For both of these graphs, you have to calculate the expected number of
@@ -658,7 +663,7 @@ want to use the *patchwork* package to assemble the two charts next to
 each other.
 
 ```{r min-max_renewables, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "renewables.png"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "renewables.png"), error = FALSE)
 ```
 
 [**NOTE:**]{.underline} We decided to filter on year == 2019 only to
@@ -748,7 +753,7 @@ This pattern implies that, for these countries, there exists almost no
 correlation between CO2 per cap and % renewables across time.
 
 ```{r animation, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "animation.gif"), error = FALSE)
+knitr::include_graphics(here::here("static/images", "animation.gif"), error = FALSE)
 ```
 
 To create this animation is actually straight-forward. You manipulate

@@ -822,7 +822,7 @@ While this is ok, what if one asked you to create the same plot for the top 10 c
 # Load datasets
 CA_contributors_2016 <- vroom::vroom(here::here("data","CA_contributors_2016.csv"))
 
-zipcodes <- readr::read_csv("C:/Users/ASUS/Desktop/Mainframe/Mainframe/London Business School/Academic/Autumn Term (Term 1)/AM01 AUT22 Applied Statistics/am01-master/data/zip_code_database.csv")
+zipcodes <- readr::read_csv(here::here("data", "zip_code_database.csv"))
 
 # Glimpse datasets
 glimpse(CA_contributors_2016)
