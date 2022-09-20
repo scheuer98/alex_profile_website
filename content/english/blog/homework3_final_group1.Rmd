@@ -4,8 +4,8 @@ draft: false
 image: images/slider/Hockey_Team.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
-slug: phys_act # slug is the shorthand URL address... no spaces plz
-title: "Session 6: Homework 3"
+slug: homework3 # slug is the shorthand URL address... no spaces plz
+title: "The Relationship between Physical Activity and Weight"
 author: "Group 1: Alex Scheuer, Dhruvi Mundra, Heng Jian Shun, Marta Wnek, Sharon Wenyu Xu, Xueying Liu"
 date: "`r Sys.Date()`"
 output:
