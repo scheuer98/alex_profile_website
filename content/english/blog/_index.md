@@ -4,5 +4,5 @@ custom_class: ""
 custom_css: ""
 description: This is meta description.
 draft: false
-title: Oh My Blog!
+title: An overview over the R Projects at LBS so far!
 ---

@@ -7,13 +7,13 @@ funfacts:
 - count: "100"
   image: images/icons/works.png
   name: HANDS TO WORK
-- count: "200"
+- count: "6"
   image: images/icons/happy.png
   name: HAPPY CLIENT
-- count: "250"
+- count: "10"
   image: images/icons/project.png
   name: FINISHED PROJECT
-- count: "150"
+- count: "200"
   image: images/icons/coffee.png
   name: CUPS OF COFFEE
 title: ""
