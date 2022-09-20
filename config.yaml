@@ -68,14 +68,14 @@ Languages:
           pre: '#'
           url: about
           weight: 2
-        - name: Blog
+        - name: R Projects
           url: blog
           weight: 3
         - name: Services
           pre: '#'
           url: service
           weight: 4
-        - name: Education and Projects
+        - name: Education & Projects
           pre: '#'
           url: portfolio
           weight: 5
