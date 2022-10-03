@@ -7,10 +7,10 @@ testimonial_slider:
   designation: Senior Manager, Vivantes
   image: images/clients/gino.jpeg
   name: Gino Liguori
-- content: I am yet to be impressed by Alex. Let's hope he builds a good portfolio website.
-  designation: Adjunct Professor, London Business School
-  image: images/clients/kostis.jpeg
-  name: Kostis Christodoulou
+#- content: I am yet to be impressed by Alex. Let's hope he builds a good portfolio website.
+#  designation: Adjunct Professor, London Business School
+#  image: images/clients/kostis.jpeg
+#  name: Kostis Christodoulou
 #- content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis
 #    totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos
 #    in iusto.
